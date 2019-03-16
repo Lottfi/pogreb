@@ -3,7 +3,7 @@ package pogreb
 import (
 	"testing"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/Lottfi/pogreb/fs"
 )
 
 func TestFreelistAllocate(t *testing.T) {

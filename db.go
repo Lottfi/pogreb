@@ -8,8 +8,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/akrylysov/pogreb/fs"
-	"github.com/akrylysov/pogreb/hash"
+	"github.com/Lottfi/pogreb/fs"
+	"github.com/Lottfi/pogreb/hash"
 )
 
 const (

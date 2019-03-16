@@ -4,7 +4,7 @@ import (
 	"encoding"
 	"os"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/Lottfi/pogreb/fs"
 )
 
 type file struct {
