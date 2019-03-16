@@ -3,7 +3,7 @@ package pogreb
 import (
 	"encoding/binary"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/Lottfi/pogreb/fs"
 )
 
 type slot struct {
