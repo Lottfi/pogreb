@@ -8,7 +8,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/akrylysov/pogreb/fs"
+	"github.com/Lottfi/pogreb/fs"
 )
 
 func assertDeepEqual(t *testing.T, expected interface{}, actual interface{}) {
